@@ -20,7 +20,7 @@ Communication is a huge part of my role, and I will always err on the side of ov
 
 ### What I value
 
-**People**. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout. If there were a dearth of technical talent, that would be a problem, but since there's not, I'm trying to use this as an opportunity to empower others to take on more technical leadership in order to free up more of my time to focus on process improvements and keeping folks happy and productive. I see this as a win-win for everyone.
+**People**. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
 
 **Effective collaboration**. There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
 

@@ -10,7 +10,7 @@ I started teaching myself how to code websites when I was about 10 years old. By
 
 In the Before Times, if you'd asked me what 3 of my favorite hobbies/interests are, I would've told you: traveling, checking out new restaurants/bars in the city, and going to live music events. So... you can imagine how that's been going. During the pandemic, I've spent most of my free time reading books, watching TV shows (mostly Netflix, with the other streaming services on rotation), and playing video games. I read [over 60 books in 2021](https://www.goodreads.com/user/year_in_books/2021/6271228), an accomplishment I'm quite proud of; reading is something I'd always enjoyed but had never figured out how to make time/space for as a working adult, so that's been one pleasant change that came out of this awful reality.
 
-### My work & leadership style
+### My working & leadership style
 
 I am an introvert through and through, and I tend to process information and figure out solutions by thinking through them quietly on my own. I can't really think and talk at the same time, and I like to take my time to work through a new idea – ideally overnight, if at all possible. The best way to help me is to give me time to process and think before responding to you. I like to give thoughtful responses and am not always the best at thinking on my feet, especially if I also have to context-switch from whatever I was focused on before. I like meeting requests that come with agendas and will always model this habit myself.
 
@@ -20,11 +20,11 @@ Communication is a huge part of my role, and I will always err on the side of ov
 
 ### What I value
 
-**People**. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
+_**People**_. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
 
-**Effective collaboration**. There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
+_**Effective collaboration**_ There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
 
-**Self-care and work-life balance**. I believe individual health and happiness are the most important factors that contribute to whether or not a workplace will ultimately be successful. I also believe the best coders do something other than coding in their spare time. So, you'll find me one of the fiercest advocates for work-life balance and self-care – as long as something isn't on fire, I'm always going to tell you to take care of yourself first, get some rest and recharge. Then come back to fight another day.
+_**Self-care and work-life balance**_. I believe individual health and happiness are the most important factors that contribute to whether or not a workplace will ultimately be successful. I also believe the best coders do something other than coding in their spare time. So, you'll find me one of the fiercest advocates for work-life balance and self-care – as long as something isn't on fire, I'm always going to tell you to take care of yourself first, get some rest and recharge. Then come back to fight another day.
 
 ### Ask me about...
 

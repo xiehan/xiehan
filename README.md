@@ -22,7 +22,7 @@ Communication is a huge part of my role, and I will always err on the side of ov
 
 _**People**_. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
 
-_**Effective collaboration**_ There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
+_**Effective collaboration**_. There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
 
 _**Self-care and work-life balance**_. I believe individual health and happiness are the most important factors that contribute to whether or not a workplace will ultimately be successful. I also believe the best coders do something other than coding in their spare time. So, you'll find me one of the fiercest advocates for work-life balance and self-care – as long as something isn't on fire, I'm always going to tell you to take care of yourself first, get some rest and recharge. Then come back to fight another day.
 

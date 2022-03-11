@@ -1,6 +1,6 @@
 ## Nara Kasbergen Kwon (she/her)
 
-I'm an engineering manager looking to start [a new adventure](https://medium.com/@xiehan/im-starting-the-search-for-my-next-role-here-s-what-i-m-looking-for-bb362487f59e) in 2022. Up until July 2021, I was the engineering manager for Voice & Emerging Platforms at NPR (National Public Radio). I then took some time off to catch up with family, finally celebrate my wedding (a year and a half overdue), recover from burnout, and think deeply about what's most important to me in the next phase of my life.
+I recently started a new role as an engineering manager at [HashiCorp](https://www.hashicorp.com/)! 🎉 Nice to meet you.
 
 ### More about me
 

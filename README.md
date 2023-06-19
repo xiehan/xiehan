@@ -1,14 +1,12 @@
 ## Nara Kasbergen Kwon (she/her)
 
-I recently started a new role as an engineering manager at [HashiCorp](https://www.hashicorp.com/)! 🎉 Nice to meet you.
+I'm a senior engineering manager at [HashiCorp](https://www.hashicorp.com/), managing two open source teams in the Terraform organization. Nice to meet you!
 
 ### More about me
 
-I was born in The Netherlands and lived in Munich, Houston, Pittsburgh, Tokyo, and New York City prior to settling down in Washington, DC. My husband was born in South Korea and also lived in Japan before moving to the United States, so I've got a very international family! I love learning languages and speak fluent Dutch and English; passable German, Japanese, and Korean; and have taken courses in Arabic, Mandarin, and French. My latest personal project has been learning Swedish using a combination of DuoLingo and streaming TV programs.
+I was born in The Netherlands and lived in Munich, Houston, Pittsburgh, Tokyo, New York City, and Washington, DC, prior to returning to Utrecht, NL. My husband was born in South Korea and also lived in Japan before moving to the United States, so I've got a very international family! I love learning languages and speak fluent Dutch and English; passable German, Japanese, and Korean; and have taken courses in Arabic, Mandarin, and French.
 
 I started teaching myself how to code websites when I was about 10 years old. By the time I was in high school, I was making sites as volunteer projects for school clubs and other community organizations such as our local swim team. I deliberately chose not to major in computer science in college because I'd kind of fallen out of love with programming by then, and decided to major in graphic design instead, but grad school at NYU helped me realize that to me it's more important to contribute toward a mission that I care about than working in a specific medium or using specific tools or skills. In the end, I found it easier to get my start in mission-based work as a software engineer, so that's how I ended up doing this for a living after all. I have no regrets!
-
-In the Before Times, if you'd asked me what 3 of my favorite hobbies/interests are, I would've told you: traveling, checking out new restaurants/bars in the city, and going to live music events. So... you can imagine how that's been going. During the pandemic, I've spent most of my free time reading books, watching TV shows (mostly Netflix, with the other streaming services on rotation), and playing video games. I read [over 60 books in 2021](https://www.goodreads.com/user/year_in_books/2021/6271228), an accomplishment I'm quite proud of; reading is something I'd always enjoyed but had never figured out how to make time/space for as a working adult, so that's been one pleasant change that came out of this awful reality.
 
 ### My working & leadership style
 
@@ -20,7 +18,7 @@ Communication is a huge part of my role, and I will always err on the side of ov
 
 ### What I value
 
-_**People**_. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, over the past year, I've realized that I am personally less and less motivated by purely technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
+_**People**_. It probably isn't a surprise that I ended up on the management track, because I believe that humans are simultaneously the best and hardest part of software development – not code. The pandemic had an effect here as well; more than anything, I realized that I am personally less and less motivated by purely technical problems, and more and more motivated by what it takes to keep people happy and healthy and avoiding burnout.
 
 _**Effective collaboration**_. There's no greater feeling than great teamwork. I especially love when we're able to collaborate effectively cross-functionally – when product and design and dev and QA all find their groove, everyone works toward the final decisions together, and then we execute, with clear communication along the way.
 

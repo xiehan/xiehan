@@ -27,7 +27,8 @@ On a personal level, I am an introvert who processes information by thinking thr
 - Transitioning from a line manager to managing managers
 - Navigating an acquisition and large-scale organizational change
 - Building personal trust across global, highly distributed teams
-- The benefits of speaking at conferences and how to get into public speaking _(I'm "retired" as a speaker myself but happy to help others get into it)_
+- The benefits of speaking at conferences and how to get into public speaking
+  - _I'm "retired" as a speaker myself but happy to help others get into it!_
 - Aerial yin yoga, travel, and video games
 
 ### Where to find me

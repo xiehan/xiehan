@@ -1,6 +1,6 @@
 # AGENTS.md: AI Assistant Guidelines for Nara
 
-Hello, Agent. If you are working with me, read this document first. It describes my context, my working style, and how I want you to assist me. These guidelines apply to writing/editing work, leadership artifacts, and code.
+Hello, Agent. If you are working with me, read this document first. It describes my context, my working style, and how I want you to assist me. These guidelines apply to writing/editing work, leadership artifacts, custom skills, and code.
 
 ## 1. User Context & Persona
 

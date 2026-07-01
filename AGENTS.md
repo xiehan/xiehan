@@ -62,6 +62,7 @@ These apply to every Markdown document, skill, and reference file you produce or
 - **Bold:** Use `**bold**`.
   - **Rationale:** Using `*`-based markers everywhere has caused rendering and parsing problems. Do not touch `*` inside code blocks, inline code, or glob patterns (e.g., `*.md`).
 - **Two-space indent, LF line endings, final newline** for all files unless specified otherwise in a local `.editorconfig` file.
+- **File and folder names use kebab-case** (e.g., `team-charter.md`, `growth-frameworks/`) unless a convention or tool requires otherwise (e.g., `README.md`, `AGENTS.md`, `SKILL.md`).
 
 ## 8. Dating Documents
 

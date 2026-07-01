@@ -63,7 +63,26 @@ These apply to every Markdown document, skill, and reference file you produce or
   - **Rationale:** Using `*`-based markers everywhere has caused rendering and parsing problems. Do not touch `*` inside code blocks, inline code, or glob patterns (e.g., `*.md`).
 - **Two-space indent, LF line endings, final newline** for all files unless specified otherwise in a local `.editorconfig` file.
 
-## 8. Coding & Technical Preferences
+## 8. Dating Documents
+
+Dates carry signal. Record them on what you produce, and respect them on what you consume.
+
+**When producing documents:**
+
+- **Formal documents** (RFCs, proposals, performance reviews, and the like) get an explicit `Date:` field on its own line directly below the title, set to the date the document was produced.
+- **Less formal documents** — and anything used primarily as input or assets for a skill, or otherwise unlikely to be shared — get an HTML comment at the very top of the file instead:
+  - `<!-- created: YYYY-MM-DD -->` for documents produced once and unlikely to change again.
+  - `<!-- updated: YYYY-MM-DD -->` for documents that are revised frequently; refresh the date whenever you make a substantive change.
+- Use ISO `YYYY-MM-DD` format. If you do not know the current date, ask rather than guess.
+
+**When consuming documents:**
+
+- Read the `Date:` field or `<!-- created / updated -->` comment before relying on a document's content.
+- **Weight more recent content more heavily.** Guidance, roles, and priorities evolve over time, so when sources conflict, the most recent one wins.
+- Treat an undated document as the oldest and least authoritative.
+- If a document that should be dated is missing its date, flag it to me by name — it is usually an accidental omission, and calling it out lets me fix it.
+
+## 9. Coding & Technical Preferences
 
 - When writing or executing skills, **helper scripts target the standard library where practical**. Avoid adding new dependencies without a good reason.
 - **Runtime / dependency versions:** When building software for _others_ (skills, libraries, tooling), test and run on the _earliest supported LTS_ of a runtime, not the latest patch. This maximizes compatibility, since many users rarely update. Do not "helpfully" suggest bumping to the newest patch unless there is a concrete reason (e.g., a security fix).

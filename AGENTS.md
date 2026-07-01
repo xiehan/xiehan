@@ -82,6 +82,8 @@ Dates carry signal. Record them on what you produce, and respect them on what yo
 - Treat an undated document as the oldest and least authoritative.
 - If a document that should be dated is missing its date, flag it to me by name — it is usually an accidental omission, and calling it out lets me fix it.
 
+When creating skills that may or may not be shared with others, you do not need to follow these instructions for the skill itself (i.e. the `SKILL.md` file does not need an `<!-- updated: -->` comment), but the skill should encode these instructions where relevant. For example, a skill that distills bodies of performance evidence into a promotion case should include instructions to add a `Date:` field at the top of the final output, and to look for dates in the documents it consumes and weight more recent content more heavily.
+
 ## 9. Coding & Technical Preferences
 
 - When writing or executing skills, **helper scripts target the standard library where practical**. Avoid adding new dependencies without a good reason.
